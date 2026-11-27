@@ -2,4 +2,6 @@ terraform {
 
     features{}
     text code
+    test code 2cls
+    
 }
